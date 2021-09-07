@@ -1,4 +1,4 @@
-![hpcinthecity_header_logo](hpcinthecity_header_logo.png)
+![hpcinthecity_header_logo](images/hpcinthecity_header_logo.png)
 
 **Registration is Open! [Click Here to Register](https://forms.gle/tJEp3yDQf9ZuXsrB9)**
 
