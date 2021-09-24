@@ -3,8 +3,8 @@
 **Registration is Open! [Click Here to Register](https://forms.gle/tJEp3yDQf9ZuXsrB9)**
 
 # Pre-Event Training Sessions
-* **Data Science as a Project** [Data Science Competition] - (TBA)
 * **Mentor Training** - 9/30/21  (11am ET / 10am CT /8am PT)
+* **How to Design a Data Project** [SC21 Data Science Competition] - 10/4/21 (4pm ET / 3pm CT / 1pm PT)
 * **GitHub/Discord** - 10/7/21 (11am ET / 10am CT /8am PT)
 * **Google / CloudyCluster** - 10/14/21 (11am ET / 10am CT /8am PT)
 * **Data to Dashboard** - 10/21/21 (11am ET / 10am CT /8am PT)
