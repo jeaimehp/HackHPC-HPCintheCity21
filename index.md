@@ -17,7 +17,7 @@
 * **Judge Overview** - 11/5/21 (11am ET / 10am CT /8am PT)
 
 ---
-# Additional Resources:
+# Additional Resources
 * [GitHub Markdown Reference](https://github.github.com/gfm)  
 * [Introduction to GitHub](https://lab.github.com/githubtraining/introduction-to-github)
 * [Introduction to Version Control](https://swcarpentry.github.io/git-novice/)
