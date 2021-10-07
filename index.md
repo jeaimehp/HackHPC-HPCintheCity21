@@ -18,6 +18,6 @@
 
 ---
 # Additional Resources:
-* [[GitHub Markdown Reference]](https://github.github.com/gfm/](https://github.github.com/gfm/)  
-* [[Introduction to GitHub]](https://lab.github.com/githubtraining/introduction-to-github)
-* [[Introduction to Version Control]](https://swcarpentry.github.io/git-novice/)
+* [GitHub Markdown Reference](https://github.github.com/gfm/](https://github.github.com/gfm/)  
+* [Introduction to GitHub](https://lab.github.com/githubtraining/introduction-to-github)
+* [Introduction to Version Control](https://swcarpentry.github.io/git-novice/)
