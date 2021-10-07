@@ -1,6 +1,6 @@
 ![hpcinthecity_header_logo](images/hpcinthecity_header_logo.png)
 
-**Registration is Open! [Click Here to Register](https://forms.gle/tJEp3yDQf9ZuXsrB9)**
+**Registration is Open until 10/8/21! [Click Here to Register](https://forms.gle/tJEp3yDQf9ZuXsrB9)**
 
 # Pre-Event Training Sessions
 * **Mentor Training** - 9/30/21  (11am ET / 10am CT /8am PT)
