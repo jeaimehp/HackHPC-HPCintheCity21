@@ -5,7 +5,8 @@
 # Pre-Event Training Sessions
 * **Mentor Training** - 9/30/21  (11am ET / 10am CT /8am PT)
   * [[Slides]](Training_Slides/Mentor%20Training.pdf)  [[Video]](https://youtu.be/nOs3yW-ZlOg) [![YouTube](logos/youtube-logo-sm.png)](https://www.youtube.com/playlist?list=PLk7G3_iq2ijTSBy_JwLSXSKjyga6nYFC9)
-* **How to Design a Data Project** [SC21 Data Science Competition] - 10/5/21 (4pm ET / 3pm CT / 1pm PT)
+* **How to Design a Data Project** [*SC21 Data Science Competition*](https://sc21.supercomputing.org/program/studentssc/data-science-competition/) - 10/5/21 (4pm ET / 3pm CT / 1pm PT)
+  * [[Video]](https://youtu.be/Z9OYiRYvRJg) [![YouTube](logos/youtube-logo-sm.png)] 
 * **GitHub/Discord** - 10/7/21 (11am ET / 10am CT /8am PT)
  * * [[Slides]](Training_Slides/Discord%20and%20GitHub%20Training.pdf)  [[Video]](https://youtu.be/zoG9BrLTxQE) [![YouTube](logos/youtube-logo-sm.png)](https://www.youtube.com/playlist?list=PLk7G3_iq2ijTSBy_JwLSXSKjyga6nYFC9)
 * **Google / CloudyCluster** - 10/14/21 (11am ET / 10am CT /8am PT)
