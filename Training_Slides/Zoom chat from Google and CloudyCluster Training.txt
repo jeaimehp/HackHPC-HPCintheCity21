@@ -1,0 +1,22 @@
+10:17:17	 From Josh Kissel : https://discord.gg/UrXfQsqsdG JOIN THE DISCORD!!
+10:36:40	 From Je'aime Powell : https://www.qwiklabs.com/
+10:39:23	 From Je'aime Powell : vcpu = Virtual Central Processing Unit (CPU)
+10:40:24	 From Je'aime Powell : Jupyter Notebooks Introduction - https://realpython.com/jupyter-notebook-introduction/
+10:40:53	 From Je'aime Powell : Linux is an operating system similar to Windows and MacOS
+10:41:32	 From Je'aime Powell : Note: Android is a version (fork in Github terms) of Linux
+10:43:21	 From Je'aime Powell : A “job” is a piece of code or software you “submit” (ask to run) on a “cluster” (group of computers)
+10:45:17	 From Je'aime Powell : MPI = message passing interface, a software package that allows you to run a job in parallel (across multiple processor cores and/or computers simultaneously)
+10:45:46	 From Je'aime Powell : Batch job = a piece of code submitted for execution on a cluster
+10:46:00	 From Je'aime Powell : Node = 1 computer
+10:46:20	 From Je'aime Powell : Ex. your personal laptop = 1 node
+10:47:12	 From John Holly : Je’aime is the human encyclopedia
+10:48:53	 From Je'aime Powell : Compile = converting human-readable code into binary (1’s and 0’s) that can be run (executed) on a computer
+10:49:33	 From Je'aime Powell : MPI has a compiler that translates code to be utilized across a cluster in parallel
+10:50:08	 From Munene Kanampiu : I looked @ that SC21 thing and seems most sessions will be in-person <unexpectedly>
+10:51:00	 From Je'aime Powell : SLURM = a “Job Scheduler” commonly used on many HPC clusters/supercomputers. It is a piece of software that determines what node(computer) is available and sends the submitted “batch job” to that node
+10:52:48	 From Je'aime Powell : CCQ = cloudy cluster queue is a job scheduler for job schedulers. It in this cases asks the SLURM job scheduler for its information and then reports back to the CloudyCluster platform
+10:53:35	 From Je'aime Powell : Session = a computer (node) on which your job is running
+10:54:19	 From Je'aime Powell : Wallclock time = the amount of time it took to run a job
+10:54:23	 From Je'aime Powell : Less is faster
+10:54:35	 From Je'aime Powell : Faster is mostly better lol
+
