@@ -22,9 +22,9 @@ Zoom connection details are directly sent to registered email addresses. If ther
 | Day | Time | Activities |
 |-----------|:------------------------:|----------------------------|
 | Thursday (11/4) | 6:00p(EST)<br>5:00p(CT)<br>3:00p(PT) |  **Kickoff Meeting** <br> • Dice-Breaker <br> • Ethics <br> • Schedule <br> • Google Project Setup <br> • Team Formation |
-| Friday (11/5) | 11:00a(EST)<br>10:00a(CT)<br>8:00a(PT) |  **Checkin** <br> **Sponsor Welcome from Globus** - [Rachana Ananthakrishnan](https://www.linkedin.com/in/rachanananthakrishnan/) <br> _Team Introductions_ <br>  &ensp; ‣ 1 Slide <br>  &ensp; ‣ Team name <br>  &ensp; ‣ Team members including Mentor <br>  &ensp; ‣ Team Theme song <br>  &ensp; ‣ Team Virtual background |
+| Friday (11/5) | 11:00a(EST)<br>10:00a(CT)<br>8:00a(PT) |  **Checkin** <br> **Sponsor Welcome from Globus** - _Rachana Ananthakrishnan_[![LinkedIn](logos/sm_linkedinicon.jpeg)](https://www.linkedin.com/in/rachanananthakrishnan/) <br> _Team Introductions_ <br>  &ensp; ‣ 1 Slide <br>  &ensp; ‣ Team name <br>  &ensp; ‣ Team members including Mentor <br>  &ensp; ‣ Team Theme song <br>  &ensp; ‣ Team Virtual background |
 |  | 11:00a(EST)<br>10:00a(CT)<br>8:00a(PT) | **Judges Only Pre-Training Session** |
-|  | 1:00p(EST)<br>12:00p(CT)<br>10:00a(PT) | **Data Carpentry Training Session** - [Anna Dabrowski](https://www.linkedin.com/in/ajdabrowski/)|
+|  | 1:00p(EST)<br>12:00p(CT)<br>10:00a(PT) | **Data Carpentry Training Session** - _Anna Dabrowski_[![LinkedIn](logos/sm_linkedinicon.jpeg)](https://www.linkedin.com/in/ajdabrowski/)|
 |  | 6:00p(EST)<br>5:00p(CT)<br>3:00p(PT) |  **Checkin** <br> _Team Goal Presentation_ <br> &ensp; ‣ 1 Slide <br>  &ensp; ‣ Team name <br>  &ensp; ‣ Team members including Mentor <br> &ensp; ‣ Team Goal(s) <br> &ensp; ‣ at least 2 tasks to be completed by Saturday Evening Checkin|
 | Saturday (11/6) | 11:00a(EST)<br>10:00a(CT)<br>8:00a(PT) |  **Checkin** |
 |  | 6:00p(EST)<br>5:00p(CT)<br>3:00p(PT) |  **Checkin** <br> &ensp; ‣ _1 Day Progress Challenge_ |
