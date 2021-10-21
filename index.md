@@ -20,6 +20,26 @@
 
 ---
 # Additional Resources
+## Github and MarkDown
 * [GitHub Markdown Reference](https://github.github.com/gfm)  
 * [Introduction to GitHub](https://lab.github.com/githubtraining/introduction-to-github)
 * [Introduction to Version Control](https://swcarpentry.github.io/git-novice/)
+
+## Google Cloud Platform and CloudyCluster
+* [Qwiklabs - Credits](https://edu.google.com/programs/credits/training/?modal_active=none)
+* [CloudyCluster Lab](https://www.cloudskillsboost.google/focuses/21221?parent=catalog)
+
+## Data Management
+* [R for Data Science](had.co.nz) - R for Data Science. Code in R / concepts useful any language
+* [Tidy data for efficiency, reproducibility, and collaboration](openscapes.org) - Blog Overview (easy read) 
+* [Tidy data Paper](had.co.nz) - Original paper by Hadley Wickham (founder of R) who pioneered the concept of tidy data
+* [Tidy data • tidyr](tidyverse.org) - informal and example code heavy (in R) version
+
+## Data Visualization
+* [Chart Chooser — Juice Analytics](https://www.juiceanalytics.com/chartchooser)
+* [Plotly graphing library](https://plotly.com/python/)
+
+## Dash App
+* [Dash App documentation](https://dash.plotly.com/)
+* [Deploy to Heroku integration from github](https://devcenter.heroku.com/articles/github-integration)
+* [Dash guidance / command line (scroll past Enterprise information to Heroku / free section](https://dash.plotly.com/deployment)
