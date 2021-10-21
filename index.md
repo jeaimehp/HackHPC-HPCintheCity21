@@ -1,6 +1,6 @@
 ![hpcinthecity_header_logo](images/hpcinthecity_header_logo.png)
 
-**Registration is Open until 10/8/21! [Click Here to Register](https://forms.gle/tJEp3yDQf9ZuXsrB9)**
+**Registration is **CLOSED**!
 
 # Pre-Event Training Sessions
 * **Mentor Training** - 9/30/21  (11am ET / 10am CT /8am PT)
@@ -15,8 +15,23 @@
 * **Beginning to End Project Example** - 10/28/21 (11am ET / 10am CT /8am PT)
 
 # Event Training Sessions
-* **Data Carpentry** - 11/5/21 (1pm ET /12pm CT/ 10am PT)
-* **Judge Overview** - 11/5/21 (11am ET / 10am CT /8am PT)
+## Schedule of Events
+Zoom connection details are directly sent to registered email addresses. If there is an issue [Please email us with your questions.](mailto:jpowell@tacc.utexas.edu,amycannon@omnibond.com,haydenl@mindspring.com?subject=[HPC-in-the-City-Zoom-Link-Problem])  
+
+
+| Day | Time | Activities |
+|-----------|:------------------------:|----------------------------|
+| Thursday (11/4) | 6:00p(EST)<br>5:00p(CT)<br>3:00p(PT) |  **Kickoff Meeting** <br> • Dice-Breaker <br> • Ethics <br> • Schedule <br> • Google Project Setup <br> • Team Formation |
+| Friday (11/5) | 11:00a(EST)<br>10:00a(CT)<br>8:00a(PT) |  **Checkin** <br> _Team Introductions_ <br>  &ensp; ‣ 1 Slide <br>  &ensp; ‣ Team name <br>  &ensp; ‣ Team members including Mentor <br>  &ensp; ‣ Team Theme song <br>  &ensp; ‣ Team Virtual background |
+|  | 11:00a(EST)<br>10:00a(CT)<br>8:00a(PT) | **Judges Only Pre-Training Session** |
+|  | 1:00p(EST)<br>12:00p(CT)<br>10:00a(PT) | **Data Carpentry Training Session** |
+|  | 6:00p(EST)<br>5:00p(CT)<br>3:00p(PT) |  **Checkin** <br> _Team Goal Presentation_ <br> &ensp; ‣ 1 Slide <br>  &ensp; ‣ Team name <br>  &ensp; ‣ Team members including Mentor <br> &ensp; ‣ Team Goal(s) <br> &ensp; ‣ at least 2 tasks to be completed by Saturday Evening Checkin|
+| Saturday (11/6) | 11:00a(EST)<br>10:00a(CT)<br>8:00a(PT) |  **Checkin** |
+|  | 6:00p(EST)<br>5:00p(CT)<br>3:00p(PT) |  **Checkin** <br> &ensp; ‣ _1 Day Progress Challenge_ |
+| Sunday (11/7) | 12:30p(EST)<br>11:30a(CT)<br>9:30a(PT) |  **Checkin**  |
+| Monday (11/8) | 11:00a(EST)<br>10:00a(CT)<br>8:00a(PT) |  **Checkin** <br> &ensp; ‣ Team Intro Videos by Mentors <br> &ensp; ‣ Presentation Reminders <br> &ensp; ‣ Viewer's Choice Voting Opens |
+|  | 6:00p(EST)<br>5:00p(CT)<br>3:00p(PT) | **Team Presentations and Awards Ceremony** <br> &ensp; ‣ _Team Deliverables Due_ <br> &ensp; ‣ YouTube Stream Opens |
+
 
 ---
 # Additional Resources
