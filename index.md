@@ -14,6 +14,7 @@
 * **Data to Dashboard** - 10/21/21 (11am ET / 10am CT /8am PT)
   * [[Slides]](Training_Slides/Data%20to%20Dashboard%20Training.pdf) [[Demo Github Repo]](https://github.com/mepearson/texas_congress) [[Demo Heroku Site]](https://texas-congress.herokuapp.com/) [[Video]](https://youtu.be/ZuTs5V-1CAk) [![YouTube](logos/youtube-logo-sm.png)](https://www.youtube.com/playlist?list=PLk7G3_iq2ijTSBy_JwLSXSKjyga6nYFC9)
 * **Beginning to End Project Example** - 10/28/21 (11am ET / 10am CT /8am PT)
+  * [[Slides]](Training_Slides/Beginning%20to%20End%20Project%20Example.pdf) [[Team Focus GitHub Repo from HPC in the City: Atlanta]](https://github.com/gtoutin/focuss) [[Video]](https://youtu.be/wcS7HhztF5M) [![YouTube](logos/youtube-logo-sm.png)](https://www.youtube.com/playlist?
 
 # Schedule of Events 
 Zoom connection details are directly sent to registered email addresses. If there is an issue [Please email us with your questions.](mailto:jpowell@tacc.utexas.edu,amycannon@omnibond.com,haydenl@mindspring.com?subject=[HPC-in-the-City-Zoom-Link-Problem])  
