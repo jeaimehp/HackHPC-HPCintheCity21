@@ -19,10 +19,11 @@
 # Schedule of Events 
 Zoom connection details are directly sent to registered email addresses. If there is an issue [Please email us with your questions.](mailto:jpowell@tacc.utexas.edu,amycannon@omnibond.com,haydenl@mindspring.com?subject=[HPC-in-the-City-Zoom-Link-Problem])  
 
+**[Add all events to your calendar (ics file)](ics_files/%5BHPC%20in%20the%20City%5D%20All%20Events.ics)**
 
 | Day | Time | Activities |
 |-----------|:------------------------:|----------------------------|
-| Thursday (11/4) | 6:00p(EST)<br>5:00p(CT)<br>3:00p(PT) |  **Kickoff Meeting** <br> • Dice-Breaker <br> • Ethics <br> • Schedule <br> • Google Project Setup <br> • Team Formation |
+| Thursday (11/4) | 6:00p(EST)<br>5:00p(CT)<br>3:00p(PT)<br>[(Add to Calendar)](ics_files/HPC%20In%20the%20City-%20Kickoff.ics) |  **Kickoff Meeting** <br> • Dice-Breaker <br> • Ethics <br> • Schedule <br> • Google Project Setup <br> • Team Formation |
 | Friday (11/5) | 11:00a(EST)<br>10:00a(CT)<br>8:00a(PT) |  **Checkin** <br> **Sponsor Welcome from Globus** - _Rachana Ananthakrishnan_ [![LinkedIn](logos/sm_linkedinicon.jpeg)](https://www.linkedin.com/in/rachanananthakrishnan/) <br> **Sponsor Welcome from SC21 Inclusivity Committee** - _AJ Lauer_ [![LinkedIn](logos/sm_linkedinicon.jpeg)](https://www.linkedin.com/in/ajlauer/) <br> _Team Introductions_ <br>  &ensp; ‣ 1 Slide <br>  &ensp; ‣ Team name <br>  &ensp; ‣ Team members including Mentor <br>  &ensp; ‣ Team Theme song <br>  &ensp; ‣ Team Virtual background |
 |  | 11:00a(EST)<br>10:00a(CT)<br>8:00a(PT) | **Judges Only Pre-Training Session** |
 |  | 1:00p(EST)<br>12:00p(CT)<br>10:00a(PT) | **Data Carpentry Training Session** - _Anna Dabrowski_ [![LinkedIn](logos/sm_linkedinicon.jpeg)](https://www.linkedin.com/in/ajdabrowski/)|
