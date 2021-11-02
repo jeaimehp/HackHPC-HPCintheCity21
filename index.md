@@ -19,7 +19,7 @@
 # Schedule of Events 
 Zoom connection details are directly sent to registered email addresses. If there is an issue [Please email us with your questions.](mailto:jpowell@tacc.utexas.edu,amycannon@omnibond.com,haydenl@mindspring.com?subject=[HPC-in-the-City-Zoom-Link-Problem])  
 
-**[Add all events to your calendar (ics file)](ics_files/%5BHPC%20in%20the%20City%5D%20All%20Events.ics)**
+**[Add all events to your calendar (ics file)](ics_files/%5BHPC%20in%20the%20City%5D%20All%20Events.ics)** [[!Calendar](images/cal-icon.png)](ics_files/%5BHPC%20in%20the%20City%5D%20All%20Events.ics)
 
 | Day | Time | Activities |
 |-----------|:------------------------:|----------------------------|
