@@ -1,0 +1,68 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Apple Inc.//macOS 11.6//EN
+CALSCALE:GREGORIAN
+BEGIN:VTIMEZONE
+TZID:America/Chicago
+BEGIN:DAYLIGHT
+TZOFFSETFROM:-0600
+RRULE:FREQ=YEARLY;BYMONTH=3;BYDAY=2SU
+DTSTART:20070311T020000
+TZNAME:CDT
+TZOFFSETTO:-0500
+END:DAYLIGHT
+BEGIN:STANDARD
+TZOFFSETFROM:-0500
+RRULE:FREQ=YEARLY;BYMONTH=11;BYDAY=1SU
+DTSTART:20071104T020000
+TZNAME:CST
+TZOFFSETTO:-0600
+END:STANDARD
+END:VTIMEZONE
+BEGIN:VEVENT
+TRANSP:OPAQUE
+DTEND;TZID=America/Chicago:20211104T190000
+ORGANIZER;CN="John Holly":mailto:jholly@sura.org
+UID:A5DF6C0D-31BD-4111-9F54-3A3B4029BD2F
+DTSTAMP:20211021T155745Z
+LOCATION:o\; o\; https://utexas.zoom.us/j/98865689003
+DESCRIPTION:Full HPC In the City Event List (with links):\n\n\n\n\n\n  *
+    October 7th@10:00am CT - [HPC in the City] Github<http://hackhpc.org/
+ hpcinthecity/www.github.com> and Discord<https://discord.gg/rSXasYKDwE> 
+ Training (1hr)\n\n     *   https://tacc.zoom.us/j/87349871281\n\n  *   O
+ ctober 14th@10:00am CT - [HPC in the City]  Google Cloud<https://cloud.g
+ oogle.com/> and CloudyCluster<http://cloudycluster.com/> Training (1hr)\
+ n\n     *   https://tacc.zoom.us/j/88067675727\n\n  *   October 21st@10:
+ 00am CT - [HPC in the City]  Data to Dashboard (1hr)\n\n     *   https:/
+ /tacc.zoom.us/j/82773064671\n\n  *   October 28th@10:00am CT - [HPC in t
+ he City] Hackathon Projects from Beginning to End Training (1hr)\n\n    
+  *   https://tacc.zoom.us/j/86487383512\n\n  *   November 4th@ 5pm-7pm C
+ T - [HPC in the City] Kick-off (2hr)\n\n     *   https://utexas.zoom.us/
+ j/98865689003\n\n  *   November 5th - [HPC in the City] Checkin (all day
+ )\n\n     *   https://utexas.zoom.us/j/92483781105\n\n  *   November 6th
+  - [HPC in the City] Checkin (all day)\n\n     *   https://utexas.zoom.u
+ s/j/99732566282\n\n  *   November 7th - [HPC in the City] Checkin (all d
+ ay)\n\n     *   https://utexas.zoom.us/j/92279779536\n\n  *   November 8
+ th - [HPC in the City] Checkin (all day)\n\n     *   https://utexas.zoom
+ .us/j/98812000721\n\n  *   November 8th@5pm CT - [HPC in the City Final 
+ Presentations (2hr)\n\n     *   https://utexas.zoom.us/j/91221904272\n\n
+ \n\n\n\n\n\nThis message is from an external sender. Learn more about wh
+ y this matters.<https://ut.service-now.com/sp?id=kb_article&number=KB001
+ 1401>\n\n\n\n
+SEQUENCE:1
+CONFERENCE;VALUE=URI:
+SUMMARY:HPC In the City- Kickoff
+DTSTART;TZID=America/Chicago:20211104T170000
+X-APPLE-TRAVEL-ADVISORY-BEHAVIOR:AUTOMATIC
+CREATED:20210928T133206Z
+ATTENDEE;CN="Powell, Jeaime H";CUTYPE=INDIVIDUAL;PARTSTAT=ACCEPTED;ROLE=
+ REQ-PARTICIPANT:mailto:jpowell@tacc.utexas.edu
+BEGIN:VALARM
+X-WR-ALARMUID:938D039A-355F-4FF5-B9FE-3ADF78AE500F
+UID:938D039A-355F-4FF5-B9FE-3ADF78AE500F
+TRIGGER:-PT15M
+DESCRIPTION:Event reminder
+ACTION:DISPLAY
+END:VALARM
+END:VEVENT
+END:VCALENDAR
