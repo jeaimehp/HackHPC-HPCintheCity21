@@ -23,16 +23,16 @@ Zoom connection details are directly sent to registered email addresses. If ther
 
 | Day | Time | Activities |
 |-----------|:------------------------:|----------------------------|
-| Thursday (11/4) | 6:00p(EST)<br>5:00p(CT)<br>3:00p(PT)<br>[(Add to Calendar)](ics_files/HPC%20In%20the%20City-%20Kickoff.ics) |  **Kickoff Meeting** <br> • Dice-Breaker <br> • Ethics <br> • Schedule <br> • Google Project Setup <br> • Team Formation |
-| Friday (11/5) | 11:00a(EST)<br>10:00a(CT)<br>8:00a(PT) |  **Checkin** <br> **Sponsor Welcome from Globus** - _Rachana Ananthakrishnan_ [![LinkedIn](logos/sm_linkedinicon.jpeg)](https://www.linkedin.com/in/rachanananthakrishnan/) <br> **Sponsor Welcome from SC21 Inclusivity Committee** - _AJ Lauer_ [![LinkedIn](logos/sm_linkedinicon.jpeg)](https://www.linkedin.com/in/ajlauer/) <br> _Team Introductions_ <br>  &ensp; ‣ 1 Slide <br>  &ensp; ‣ Team name <br>  &ensp; ‣ Team members including Mentor <br>  &ensp; ‣ Team Theme song <br>  &ensp; ‣ Team Virtual background |
+| Thursday (11/4) | 6:00p(EST)<br>5:00p(CT)<br>3:00p(PT)<br>[![Calendar](images/cal-icon.png)](ics_files/HPC%20In%20the%20City-%20Kickoff.ics) |  **Kickoff Meeting** <br> • Dice-Breaker <br> • Ethics <br> • Schedule <br> • Google Project Setup <br> • Team Formation |
+| Friday (11/5) | 11:00a(EST)<br>10:00a(CT)<br>8:00a(PT)<br>[![Calendar](images/cal-icon.png)](ics_files/%5BHPC%20in%20the%20City%5D%20Friday%20Morning%20Check-in.ics) |  **Checkin** <br> **Sponsor Welcome from Globus** - _Rachana Ananthakrishnan_ [![LinkedIn](logos/sm_linkedinicon.jpeg)](https://www.linkedin.com/in/rachanananthakrishnan/) <br> **Sponsor Welcome from SC21 Inclusivity Committee** - _AJ Lauer_ [![LinkedIn](logos/sm_linkedinicon.jpeg)](https://www.linkedin.com/in/ajlauer/) <br> _Team Introductions_ <br>  &ensp; ‣ 1 Slide <br>  &ensp; ‣ Team name <br>  &ensp; ‣ Team members including Mentor <br>  &ensp; ‣ Team Theme song <br>  &ensp; ‣ Team Virtual background |
 |  | 11:00a(EST)<br>10:00a(CT)<br>8:00a(PT) | **Judges Only Pre-Training Session** |
-|  | 1:00p(EST)<br>12:00p(CT)<br>10:00a(PT) | **Data Carpentry Training Session** - _Anna Dabrowski_ [![LinkedIn](logos/sm_linkedinicon.jpeg)](https://www.linkedin.com/in/ajdabrowski/)|
-|  | 6:00p(EST)<br>5:00p(CT)<br>3:00p(PT) |  **Checkin** <br> _Team Goal Presentation_ <br> &ensp; ‣ 1 Slide <br>  &ensp; ‣ Team name <br>  &ensp; ‣ Team members including Mentor <br> &ensp; ‣ Team Goal(s) <br> &ensp; ‣ at least 2 tasks to be completed by Saturday Evening Checkin|
-| Saturday (11/6) | 11:00a(EST)<br>10:00a(CT)<br>8:00a(PT) |  **Checkin** |
-|  | 6:00p(EST)<br>5:00p(CT)<br>3:00p(PT) |  **Checkin** <br> &ensp; ‣ _1 Day Progress Challenge_ |
-| Sunday (11/7) | 12:30p(EST)<br>11:30a(CT)<br>9:30a(PT) |  **Checkin**  |
-| Monday (11/8) | 11:00a(EST)<br>10:00a(CT)<br>8:00a(PT) |  **Checkin** <br> &ensp; ‣ Team Intro Videos by Mentors <br> &ensp; ‣ Presentation Reminders <br> &ensp; ‣ Viewer's Choice Voting Opens |
-|  | 6:00p(EST)<br>5:00p(CT)<br>3:00p(PT) | **Team Presentations and Awards Ceremony** <br> &ensp; ‣ _Team Deliverables Due_ <br> &ensp; ‣ YouTube Stream Opens |
+|  | 1:00p(EST)<br>12:00p(CT)<br>10:00a(PT)<br>[![Calendar](images/cal-icon.png)](ics_files/%5BHPC%20in%20the%20City%5D%20Data%20Carpentry%20-%20Anna.ics) | **Data Carpentry Training Session** - _Anna Dabrowski_ [![LinkedIn](logos/sm_linkedinicon.jpeg)](https://www.linkedin.com/in/ajdabrowski/)|
+|  | 6:00p(EST)<br>5:00p(CT)<br>3:00p(PT)<br>[![Calendar](images/cal-icon.png)](ics_files/%5BHPC%20in%20the%20City%5D%20Friday%20Evening%20Check-in.ics) |  **Checkin** <br> _Team Goal Presentation_ <br> &ensp; ‣ 1 Slide <br>  &ensp; ‣ Team name <br>  &ensp; ‣ Team members including Mentor <br> &ensp; ‣ Team Goal(s) <br> &ensp; ‣ at least 2 tasks to be completed by Saturday Evening Checkin|
+| Saturday (11/6) | 11:00a(EST)<br>10:00a(CT)<br>8:00a(PT)<br>[![Calendar](images/cal-icon.png)](ics_files/%5BHPC%20in%20the%20City%5D%20Saturday%20Morning%20Check-in.ics) |  **Checkin** |
+|  | 6:00p(EST)<br>5:00p(CT)<br>3:00p(PT)<br>[![Calendar](images/cal-icon.png)](ics_files/%5BHPC%20in%20the%20City%5D%20Saturday%20Evening%20Check-in.ics) |  **Checkin** <br> &ensp; ‣ _1 Day Progress Challenge_ |
+| Sunday (11/7) | 12:30p(EST)<br>11:30a(CT)<br>9:30a(PT)<br>[![Calendar](images/cal-icon.png)](ics_files/%5BHPC%20in%20the%20City%5D%20Sunday%20Morning%20Check-in.ics) |  **Checkin**  |
+| Monday (11/8) | 11:00a(EST)<br>10:00a(CT)<br>8:00a(PT)<br>[![Calendar](images/cal-icon.png)](ics_files/%5BHPC%20in%20the%20City%5D%20Monday%20Morning%20Check-in.ics) |  **Checkin** <br> &ensp; ‣ Team Intro Videos by Mentors <br> &ensp; ‣ Presentation Reminders <br> &ensp; ‣ Viewer's Choice Voting Opens |
+|  | 6:00p(EST)<br>5:00p(CT)<br>3:00p(PT)<br>[![Calendar](images/cal-icon.png)](ics_files/%5BHPC%20in%20the%20City%5D%20Final%20Presentations.ics) | **Team Presentations and Awards Ceremony** <br> &ensp; ‣ _Team Deliverables Due_ <br> &ensp; ‣ YouTube Stream Opens |
 
 
 ---
