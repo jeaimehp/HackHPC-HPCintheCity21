@@ -34,6 +34,20 @@ Zoom connection details are directly sent to registered email addresses. If ther
 | Monday (11/8) | 11:00a(EST)<br>10:00a(CT)<br>8:00a(PT)<br>[![Calendar](images/cal-icon.png)](ics_files/%5BHPC%20in%20the%20City%5D%20Monday%20Morning%20Check-in.ics) |  **Checkin** <br> **Sponsor Welcome from SGCI** - _Dr. Linda Hayden_ [![LinkedIn](logos/sm_linkedinicon.jpeg)](https://www.linkedin.com/in/linda-hayden-5a8b424/)<br> &ensp; ‣ Team Intro Videos by Mentors <br> &ensp; ‣ Presentation Reminders <br> &ensp; ‣ Viewer's Choice Voting Opens |
 |  | 6:00p(EST)<br>5:00p(CT)<br>3:00p(PT)<br>[![Calendar](images/cal-icon.png)](ics_files/%5BHPC%20in%20the%20City%5D%20Final%20Presentations.ics) | **Team Presentations and Awards Ceremony** <br> &ensp; ‣ _Team Deliverables Due_ <br> &ensp; ‣ YouTube Stream Opens |
 
+## [](#deliverables) Deliverables
+**Posted to Discord "#general" Channel before Presentations**
+<br><i><font color='red'>Due Monday 11/8 by 6:00p(EST)/5:00p(CT)/3:00p(PT)</font></i>
+<br>_*NOTE: If not posted by due date and time 20pt automatic deduction from final judging score._
+
+**Github Repository Link Posted to Discord "#general" Channel**
+* Github Reposiory
+ * Source code Including Comments
+ * PDF of presentation
+  * Team members with pictures
+  * Use of HPC technology in the project
+  * Regional (St. Louis) implications of the project
+ * README.md wiht the project description
+
 
 ---
 # Additional Resources
