@@ -2,6 +2,14 @@
 
 **Registration is **CLOSED**!
 
+## Code of Conduct
+_All attendees, sponsors, partners, volunteers and staff at our hackathon are required to agree with the following code of conduct. Organizers will enforce this code throughout the event. We expect cooperation from all participants to ensure a safe environment for everybody._
+- [SC21 Code of Conduct](https://sc21.supercomputing.org/attend/code-of-conduct/#:~:text=IEEE%20prohibits%20discrimination%2C%20harassment%2C%20and,%2C%20political%20affiliation%2C%20marital%20status%2C)
+- [Science Gateways Code of Conduct](https://sciencegateways.org/engage/hackathon/hackathon-code-of-conduct)
+  - [Video Presentation](https://youtu.be/KukF3-_wqkI)
+  - [Organizing Committe Contact Information](#organizers-contact-information)
+
+
 # Pre-Event Training Sessions
 * **Mentor Training** - 9/30/21  (11am ET / 10am CT /8am PT)
   * [[Slides]](Training_Slides/Mentor%20Training.pdf) [[Mentor Mini-Hack Slide]](Training_Slides/Mentor%20Mini-Hack%20Slide.pdf) [[Video]](https://youtu.be/nOs3yW-ZlOg) [![YouTube](logos/youtube-logo-sm.png)](https://www.youtube.com/playlist?list=PLk7G3_iq2ijTSBy_JwLSXSKjyga6nYFC9)
@@ -47,7 +55,16 @@ Zoom connection details are directly sent to registered email addresses. If ther
     * Use of HPC technology in the project
     * Regional (St. Louis) implications of the project
   * README.md wiht the project description
+---
+## Organizers Contact Information
 
+| Name | Affiliation | Contact Information | Social Media
+|-----------------------|--------------|----------------------------|----------------------------|
+| Alex Nolte| [University of Tartu]( http://www.ut.ee/en)| [alexander.nolte@ut.ee](mailto:alexander.nolte@ut.ee?subject=[HackHPC-PEARC20]) | [![LinkedIn](linkedinicon.jpeg)]( https://www.linkedin.com/in/alexandernolte/)[![Twitter](twittericon.png)](https://twitter.com/alexander_nolte)[![Github](githubicon.png)](https://alexandernolte.github.io/)|
+| Amy Cannon| [Omnibond]( http://www.omnibond.com/)| [amycannon@omnibond.com](mailto:amycannon@omnibond.com?subject=[HackHPC-PEARC20]) | [![LinkedIn](linkedinicon.jpeg)]( https://www.linkedin.com/in/amy-cannon-46230b31/)[![Twitter](twittericon.png)](https://twitter.com/amy__cannon) |
+| Boyd Wilson| [Omnibond]( http://www.omnibond.com/)| [boyd@omnibond.com](mailto:boyd@omnibond.com?subject=[HackHPC-PEARC20]) | [![LinkedIn](linkedinicon.jpeg)]( https://www.linkedin.com/in/boydwilson/)[![Twitter](twittericon.png)](https://twitter.com/boydwilson)[![Github](githubicon.png)](https://github.com/omnibond) |
+| Je'aime Powell | [TACC](http://www.tacc.utexas.edu/) | [jpowell@tacc.utexas.edu](mailto:jpowell@tacc.utexas.edu?subject=[HackHPC-PEARC20]) | [![LinkedIn](linkedinicon.jpeg)](https://www.linkedin.com/in/jeaimehp/)[![Twitter](twittericon.png)](https://twitter.com/jeaimehp)[![Github](githubicon.png)](https://github.com/jeaimehp) |
+| Linda Hayden | [ECSU](http://nia.ecsu.edu/) | [haydenl@mindspring.com](mailto:haydenl@mindspring.com?subject=[HackHPC-PEARC20]) | [![LinkedIn](linkedinicon.jpeg)]( https://www.linkedin.com/in/linda-hayden-5a8b424/)[![Twitter](twittericon.png)](https://twitter.com/lhaydenecsu)|
 
 ---
 # Additional Resources
