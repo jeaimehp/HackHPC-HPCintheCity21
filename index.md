@@ -41,12 +41,12 @@ Zoom connection details are directly sent to registered email addresses. If ther
 
 **Github Repository Link Posted to Discord "#general" Channel**
 * Github Reposiory
- * Source code Including Comments
- * PDF of presentation
-  * Team members with pictures
-  * Use of HPC technology in the project
-  * Regional (St. Louis) implications of the project
- * README.md wiht the project description
+  * Source code Including Comments
+  * PDF of presentation
+    * Team members with pictures
+    * Use of HPC technology in the project
+    * Regional (St. Louis) implications of the project
+  * README.md wiht the project description
 
 
 ---
