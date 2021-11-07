@@ -48,13 +48,14 @@ Zoom connection details are directly sent to registered email addresses. If ther
 <br>_*NOTE: If not posted by due date and time 20pt automatic deduction from final judging score._
 
 **Github Repository Link Posted to Discord "#general" Channel**
-* Github Reposiory
+* Github Repository
   * Source code Including Comments
   * PDF of presentation
     * Team members with pictures
     * Use of HPC technology in the project
     * Regional (St. Louis) implications of the project
-  * README.md wiht the project description
+  * README.md with the project description
+
 ---
 ## Organizers Contact Information
 
