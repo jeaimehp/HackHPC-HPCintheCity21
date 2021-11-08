@@ -20,43 +20,43 @@ All videos from the event can be found on the [HackHPC Youtube Channel](https://
 ## [](#air) A.I.R. (Atmospheric Investigative Researchers)
 - _(Mentor)_ Cole McKnight [![LinkedIn](logos/sm_linkedinicon.jpeg)](https://www.linkedin.com/in/cole-mcknight/)
 - _(Co-Mentor)_ Sheri Mickelson [[Profile]](https://staff.ucar.edu/users/mickelso)
-- [[Team Trailer Video]] 
-- [[Team Introduction Video]](https://youtu.be/3ov7TSN0svo) [[Event Presentations]](https://github.com/jeaimehp/HackHPC-HPCintheCity21/tree/gh-pages/Teams/A-I-R) [[Github]]
+- [[Team Trailer Video]](https://youtu.be/5p7q3eFklyc ) 
+- [[Team Introduction Video]](https://youtu.be/3ov7TSN0svo) [[Event Presentations]](https://github.com/jeaimehp/HackHPC-HPCintheCity21/tree/gh-pages/Teams/A-I-R) [[Github]](https://github.com/Raharijao/A.I.R.-project)
 
 ## [](#brick-by-brick) Brick by Brick
 - _(Mentor)_ Geoffrey Reid [![LinkedIn](logos/sm_linkedinicon.jpeg)](http://www.linkedin.com/in/gdreid)
 - _(Co-Mentor)_ Alfred Watkins [![LinkedIn](logos/sm_linkedinicon.jpeg)](https://www.linkedin.com/in/alfred-watkins-85890b5/)
-- [[Team Trailer Video]] 
-- [[Team Introduction Video]](https://youtu.be/xg5unEQ-dyE) [[Event Presentations]](https://github.com/jeaimehp/HackHPC-HPCintheCity21/tree/gh-pages/Teams/Brick_by_Brick) [[Github]]
+- [[Team Trailer Video]](https://youtu.be/CLqSTrCt6UU) 
+- [[Team Introduction Video]](https://youtu.be/xg5unEQ-dyE) [[Event Presentations]](https://github.com/jeaimehp/HackHPC-HPCintheCity21/tree/gh-pages/Teams/Brick_by_Brick) [[Github]](https://github.com/G-Unit99/Brick-By-Brick)
 
 ## [](#cool-ducks) Cool Ducks
 - _(Mentor)_ Malcolm Dcosta [[Profile]](https://www.ecsu.edu/faculty-staff/profiles/malcolm-dcosta.html)
 - _(Co-Mentor)_ John Holly [![LinkedIn](logos/sm_linkedinicon.jpeg)](http://www.linkedin.com/in/john-holly-7264a4b)
-- [[Team Trailer Video]] 
-- [[Team Introduction Video]](https://youtu.be/mEozthcOytQ) [[Event Presentations]](https://github.com/jeaimehp/HackHPC-HPCintheCity21/tree/gh-pages/Teams/Cool_Ducks) [[Github]]
+- [[Team Trailer Video]](https://youtu.be/FawAq9AeROE) 
+- [[Team Introduction Video]](https://youtu.be/mEozthcOytQ) [[Event Presentations]](https://github.com/jeaimehp/HackHPC-HPCintheCity21/tree/gh-pages/Teams/Cool_Ducks) [[Github]](https://github.com/NekoTony/Climate-Change-in-St.-Louis)
 
 ## [](#dont-skip-a-beat) Don't Skip a Beat
 - _(Student Mentor)_ Josselyn  Salgado [![LinkedIn](logos/sm_linkedinicon.jpeg)](https://www.linkedin.com/in/josselynsalgado)
 - _(Co-Mentor)_ JerNettie Burney [![LinkedIn](logos/sm_linkedinicon.jpeg)](https://www.linkedin.com/in/jaburney)
-- [[Team Trailer Video]] 
-- [[Team Introduction Video]](https://youtu.be/BBM_h5EV5JE) [[Event Presentations]](https://github.com/jeaimehp/HackHPC-HPCintheCity21/tree/gh-pages/Teams/Dont_Skip_a_Beat) [[Github]]
+- [[Team Trailer Video]](https://youtu.be/NRPweaiDxuY) 
+- [[Team Introduction Video]](https://youtu.be/BBM_h5EV5JE) [[Event Presentations]](https://github.com/jeaimehp/HackHPC-HPCintheCity21/tree/gh-pages/Teams/Dont_Skip_a_Beat) [[Github]](https://github.com/DontSkipABeat)
 
 ## [](#flood-of-code) Flood of Code
 - _(Mentor)_ William Mobley [![LinkedIn](logos/sm_linkedinicon.jpeg)](https://www.linkedin.com/in/william-mobley-0b716654/)
 - _(Student Co-Mentor)_ AnaPatricia Olvera [![LinkedIn](logos/sm_linkedinicon.jpeg)](https://www.linkedin.com/in/anapatricia-olvera-medina-9040b5170/)
-- [[Team Trailer Video]] 
-- [[Team Introduction Video]](https://youtu.be/O93qY6O9eIU) [[Event Presentations]](https://github.com/jeaimehp/HackHPC-HPCintheCity21/tree/gh-pages/Teams/Flood_of_Code) [[Github]]
+- [[Team Trailer Video]](https://youtu.be/eZt5vEEf8mk) 
+- [[Team Introduction Video]](https://youtu.be/O93qY6O9eIU) [[Event Presentations]](https://github.com/jeaimehp/HackHPC-HPCintheCity21/tree/gh-pages/Teams/Flood_of_Code) [[Github]](https://github.com/apolvm/FloodOfCode)
 
 ## [](#team-blockbusters) Team BlockBusters
 - _(Mentor)_ Agbeli Ameko [[Profile]](https://www2.cisl.ucar.edu/outreach/staff)
 - _(Co-Mentor)_ Keith Maull [[Profile]](https://staff.ucar.edu/users/kmaull)
 - [[Team Trailer Video]] 
-- [[Team Introduction Video]](https://youtu.be/NcdGKuBbWgo) [[Event Presentations]](https://github.com/jeaimehp/HackHPC-HPCintheCity21/tree/gh-pages/Teams/Team_Block_Busters) [[Github]]
+- [[Team Introduction Video]](https://youtu.be/NcdGKuBbWgo) [[Event Presentations]](https://github.com/jeaimehp/HackHPC-HPCintheCity21/tree/gh-pages/Teams/Team_Block_Busters) [[Github]](https://github.com/rollercoaster111/block-buster)
   
 ## [](#the-equalizers) The Equalizers
 - _(Mentor)_ Munene Kanampiu [![LinkedIn](logos/sm_linkedinicon.jpeg)](http://www.linkedin.com/in/munene-kanampiu-ph-d-1032508)
 - _(Co-Mentor)_ Elvira Rebecca Caldwell [![LinkedIn](logos/sm_linkedinicon.jpeg)](https://www.linkedin.com/in/rebecca-caldwell-0434256/)
-- [[Team Trailer Video]] 
+- [[Team Trailer Video]](https://youtu.be/H2PH-6qg6Tg) 
 - [[Team Introduction Video]](https://youtu.be/6MUJdg3-nQY) [[Event Presentations]](https://github.com/jeaimehp/HackHPC-HPCintheCity21/tree/gh-pages/Teams/The_Equalizers) [[Github]]
 
 # [](#schedule-of-events) Schedule of Events 
@@ -74,7 +74,7 @@ Zoom connection details are directly sent to registered email addresses. If ther
 | Saturday (11/6) | 11:00a(EST)<br>10:00a(CT)<br>8:00a(PT)<br>[![Calendar](images/cal-icon.png)](ics_files/%5BHPC%20in%20the%20City%5D%20Saturday%20Morning%20Check-in.ics) |  **Checkin** <br> **Sponsor Welcome from Omnibond** - _Amy Cannon_ [![LinkedIn](logos/sm_linkedinicon.jpeg)](https://www.linkedin.com/in/amy-cannon-46230b31/)<br> _Team Goal Presentation_ <br> &ensp; ‣ 1 Slide <br>  &ensp; ‣ Team name <br>  &ensp; ‣ Team members including Mentor <br> &ensp; ‣ Team Goal(s) <br> &ensp; ‣ at least 2 tasks to be completed by Saturday Evening Checkin|
 |  | 6:00p(EST)<br>5:00p(CT)<br>3:00p(PT)<br>[![Calendar](images/cal-icon.png)](ics_files/%5BHPC%20in%20the%20City%5D%20Saturday%20Evening%20Check-in.ics) |  **Checkin** <br> &ensp; ‣ _1 Day Progress Challenge_ **Winners - Team ["A.I.R."](#air)**|
 | Sunday (11/7) | 12:30p(EST)<br>11:30a(CT)<br>9:30a(PT)<br>[![Calendar](images/cal-icon.png)](ics_files/%5BHPC%20in%20the%20City%5D%20Sunday%20Morning%20Check-in.ics) |  **Checkin**  |
-| Monday (11/8) | 11:00a(EST)<br>10:00a(CT)<br>8:00a(PT)<br>[![Calendar](images/cal-icon.png)](ics_files/%5BHPC%20in%20the%20City%5D%20Monday%20Morning%20Check-in.ics) |  **Checkin** <br> **Sponsor Welcome from SGCI** - _Dr. Linda Hayden_ [![LinkedIn](logos/sm_linkedinicon.jpeg)](https://www.linkedin.com/in/linda-hayden-5a8b424/)<br> &ensp; ‣ Team Intro Videos by Mentors <br> &ensp; ‣ Presentation Reminders <br> &ensp; ‣ Viewer's Choice Voting Opens <br> [[Viewer's Choice Ballot]](https://forms.gle/RtZqxJH1hkf2EEGN9) |
+| Monday (11/8) | 11:00a(EST)<br>10:00a(CT)<br>8:00a(PT)<br>[![Calendar](images/cal-icon.png)](ics_files/%5BHPC%20in%20the%20City%5D%20Monday%20Morning%20Check-in.ics) |  **Checkin** <br> **Sponsor Welcome from SGCI** - _Dr. Linda Hayden_ [![LinkedIn](logos/sm_linkedinicon.jpeg)](https://www.linkedin.com/in/linda-hayden-5a8b424/)<br> &ensp; ‣ Team Intro Videos by Mentors **Winner - [Flood of Code](#flood-of-code)** <br> &ensp; ‣ Presentation Reminders <br> &ensp; ‣ Viewer's Choice Voting Opens [[Viewer's Choice Ballot]](https://forms.gle/RtZqxJH1hkf2EEGN9) |
 |  | 6:00p(EST)<br>5:00p(CT)<br>3:00p(PT)<br>[![Calendar](images/cal-icon.png)](ics_files/%5BHPC%20in%20the%20City%5D%20Final%20Presentations.ics) | **Team Presentations and Awards Ceremony** <br> &ensp; ‣ _Team Deliverables Due_ <br> &ensp; ‣ YouTube Stream Opens [[Stream Link]](https://youtu.be/Gxga3KWiAm8) |
 
 ## [](#deliverables) Deliverables
