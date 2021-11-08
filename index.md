@@ -1,6 +1,9 @@
 ![hpcinthecity_header_logo](images/hpcinthecity_header_logo.png)
 
-**Registration is **CLOSED**!
+**Watch the Final Presentations Live on YouTube** - [[Stream Link]](https://youtu.be/Gxga3KWiAm8)
+
+**Vote for your favorite team!** - [[Viewer's Choice Ballot]](https://forms.gle/RtZqxJH1hkf2EEGN9)
+
 
 # Code of Conduct
 _All attendees, sponsors, partners, volunteers and staff at our hackathon are required to agree with the following code of conduct. Organizers will enforce this code throughout the event. We expect cooperation from all participants to ensure a safe environment for everybody._
@@ -14,7 +17,7 @@ All videos from the event can be found on the [HackHPC Youtube Channel](https://
 
 # [](#teams) Teams
 
-## [](#air) A.I.R. (Atomopheric Investigative Researchers)
+## [](#air) A.I.R. (Atmospheric Investigative Researchers)
 - _(Mentor)_ Cole McKnight [![LinkedIn](logos/sm_linkedinicon.jpeg)](https://www.linkedin.com/in/cole-mcknight/)
 - _(Co-Mentor)_ Sheri Mickelson [[Profile]](https://staff.ucar.edu/users/mickelso)
 - [[Team Trailer Video]] 
