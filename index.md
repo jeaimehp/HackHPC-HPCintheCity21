@@ -57,7 +57,7 @@ All videos from the event can be found on the [HackHPC Youtube Channel](https://
 - _(Mentor)_ Munene Kanampiu [![LinkedIn](logos/sm_linkedinicon.jpeg)](http://www.linkedin.com/in/munene-kanampiu-ph-d-1032508)
 - _(Co-Mentor)_ Elvira Rebecca Caldwell [![LinkedIn](logos/sm_linkedinicon.jpeg)](https://www.linkedin.com/in/rebecca-caldwell-0434256/)
 - [[Team Trailer Video]](https://youtu.be/H2PH-6qg6Tg) 
-- [[Team Introduction Video]](https://youtu.be/6MUJdg3-nQY) [[Event Presentations]](https://github.com/jeaimehp/HackHPC-HPCintheCity21/tree/gh-pages/Teams/The_Equalizers) [[Github]]
+- [[Team Introduction Video]](https://youtu.be/6MUJdg3-nQY) [[Event Presentations]](https://github.com/jeaimehp/HackHPC-HPCintheCity21/tree/gh-pages/Teams/The_Equalizers) [[Github]](https://github.com/Jazzcattrap/TheEqualizers)
 
 # [](#schedule-of-events) Schedule of Events 
 Zoom connection details are directly sent to registered email addresses. If there is an issue [Please email us with your questions.](mailto:jpowell@tacc.utexas.edu,amycannon@omnibond.com,haydenl@mindspring.com?subject=[HPC-in-the-City-Zoom-Link-Problem])  
