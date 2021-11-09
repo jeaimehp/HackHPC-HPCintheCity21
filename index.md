@@ -51,7 +51,7 @@ All videos from the event can be found on the [HackHPC Youtube Channel](https://
 - _(Mentor)_ Agbeli Ameko [[Profile]](https://www2.cisl.ucar.edu/outreach/staff)
 - _(Co-Mentor)_ Keith Maull [[Profile]](https://staff.ucar.edu/users/kmaull)
 - [[Team Trailer Video]] 
-- [[Team Introduction Video]](https://youtu.be/NcdGKuBbWgo) [[Event Presentations]](https://github.com/jeaimehp/HackHPC-HPCintheCity21/tree/gh-pages/Teams/Team_Block_Busters) [[Github]](https://github.com/rollercoaster111/block-buster)
+- [[Team Introduction Video]](https://youtu.be/NcdGKuBbWgo) [[Event Presentations]](https://github.com/jeaimehp/HackHPC-HPCintheCity21/tree/gh-pages/Teams/Team_Block_Busters) [[Github]](https://github.com/rollercoaster111/block-busters)
   
 ## [](#the-equalizers) The Equalizers
 - _(Mentor)_ Munene Kanampiu [![LinkedIn](logos/sm_linkedinicon.jpeg)](http://www.linkedin.com/in/munene-kanampiu-ph-d-1032508)
