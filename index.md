@@ -1,9 +1,12 @@
 ![hpcinthecity_header_logo](images/hpcinthecity_header_logo.png)
 
-**Watch the Final Presentations Live on YouTube** - [[Stream Link]](https://youtu.be/Gxga3KWiAm8)
+**Watch the Final Presentations on YouTube** - [[Video]](https://youtu.be/Gxga3KWiAm8) [![YouTube](logos/youtube-logo-sm.png)](https://www.youtube.com/playlist?list=PLk7G3_iq2ijTSBy_JwLSXSKjyga6nYFC9)  
 
-**Vote for your favorite team!** - [[Viewer's Choice Ballot]](https://forms.gle/RtZqxJH1hkf2EEGN9)
 
+## Congratulations to the following award winning teams!
+* **Viewer's Choice Award - ["Don't Skip a Beat"](#dont-skip-a-beat)**
+* **Impact Award - ["Team Block Busters"](#team-blockbusters)**
+* **Judge's Award - ["A.I.R."](#air)**
 
 # Code of Conduct
 _All attendees, sponsors, partners, volunteers and staff at our hackathon are required to agree with the following code of conduct. Organizers will enforce this code throughout the event. We expect cooperation from all participants to ensure a safe environment for everybody._
