@@ -50,7 +50,7 @@ All videos from the event can be found on the [HackHPC Youtube Channel](https://
 ## [](#team-blockbusters) Team BlockBusters
 - _(Mentor)_ Agbeli Ameko [[Profile]](https://www2.cisl.ucar.edu/outreach/staff)
 - _(Co-Mentor)_ Keith Maull [[Profile]](https://staff.ucar.edu/users/kmaull)
-- [[Team Trailer Video]] 
+- [[Team Trailer Video]](https://youtu.be/0j6pMsC4RyE) 
 - [[Team Introduction Video]](https://youtu.be/NcdGKuBbWgo) [[Event Presentations]](https://github.com/jeaimehp/HackHPC-HPCintheCity21/tree/gh-pages/Teams/Team_Block_Busters) [[Github]](https://github.com/rollercoaster111/block-busters)
   
 ## [](#the-equalizers) The Equalizers
@@ -75,7 +75,7 @@ Zoom connection details are directly sent to registered email addresses. If ther
 |  | 6:00p(EST)<br>5:00p(CT)<br>3:00p(PT)<br>[![Calendar](images/cal-icon.png)](ics_files/%5BHPC%20in%20the%20City%5D%20Saturday%20Evening%20Check-in.ics) |  **Checkin** <br> &ensp; ‣ _1 Day Progress Challenge_ **Winners - Team ["A.I.R."](#air)**|
 | Sunday (11/7) | 12:30p(EST)<br>11:30a(CT)<br>9:30a(PT)<br>[![Calendar](images/cal-icon.png)](ics_files/%5BHPC%20in%20the%20City%5D%20Sunday%20Morning%20Check-in.ics) |  **Checkin**  |
 | Monday (11/8) | 11:00a(EST)<br>10:00a(CT)<br>8:00a(PT)<br>[![Calendar](images/cal-icon.png)](ics_files/%5BHPC%20in%20the%20City%5D%20Monday%20Morning%20Check-in.ics) |  **Checkin** <br> **Sponsor Welcome from SGCI** - _Dr. Linda Hayden_ [![LinkedIn](logos/sm_linkedinicon.jpeg)](https://www.linkedin.com/in/linda-hayden-5a8b424/)<br> &ensp; ‣ Team Intro Videos by Mentors **Winner - [Flood of Code](#flood-of-code)** <br> &ensp; ‣ Presentation Reminders <br> &ensp; ‣ Viewer's Choice Voting Opens [[Viewer's Choice Ballot]](https://forms.gle/RtZqxJH1hkf2EEGN9) |
-|  | 6:00p(EST)<br>5:00p(CT)<br>3:00p(PT)<br>[![Calendar](images/cal-icon.png)](ics_files/%5BHPC%20in%20the%20City%5D%20Final%20Presentations.ics) | **Team Presentations and Awards Ceremony** <br> &ensp; ‣ _Team Deliverables Due_ <br> &ensp; ‣ YouTube Stream Opens [[Stream Link]](https://youtu.be/Gxga3KWiAm8) |
+|  | 6:00p(EST)<br>5:00p(CT)<br>3:00p(PT)<br>[![Calendar](images/cal-icon.png)](ics_files/%5BHPC%20in%20the%20City%5D%20Final%20Presentations.ics) | **_Team Presentations and Awards Ceremony_** <br> **Viewer's Choice Award - ["Don't Skip a Beat"](#dont-skip-a-beat)** <br> **Impact Award - ["Team Block Busters"](#team-blockbusters)** <br> **Judge's Award - ["A.I.R."](#air)** <br> &ensp; ‣ _Team Deliverables Due_ <br> &ensp; ‣ YouTube Stream Opens [[Stream Link]](https://youtu.be/Gxga3KWiAm8) |
 
 ## [](#deliverables) Deliverables
 **Posted to Discord "#general" Channel before Presentations**
